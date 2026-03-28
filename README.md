@@ -6,7 +6,7 @@ This project is an implementation of the Rail Maintenance game for the Train Gee
 
 The game simulates a railway system where tracks can become damaged over time. The player controls a maintenance vehicle (drezina) and must repair the tracks to keep trains moving.
 
-The goal is to prevent trains from stopping for too long and keep the railway functional as long as possible. :contentReference[oaicite:0]{index=0}
+The goal is to prevent trains from stopping for too long and keep the railway functional as long as possible.
 
 ## Features
 
