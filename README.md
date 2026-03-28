@@ -1,6 +1,6 @@
-# Rail Maintenance - Train Geeks Assignment
+# Rail Maintenance - Train Geeks
 
-This project is an implementation of the Rail Maintenance game for the Train Geeks assignment.
+This project is an implementation of the Rail Maintenance game for the Train Geeks.
 
 ## Description
 
