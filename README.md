@@ -41,6 +41,3 @@ The goal is to prevent trains from stopping for too long and keep the railway fu
 
 Open the project in Visual Studio, build it, and run.
 
-## Notes
-
-This project implements the Rail Maintenance version of the assignment.
